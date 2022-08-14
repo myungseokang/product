@@ -26,7 +26,7 @@ author:
 url: "https://product.myungseokang.space" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-8WT0W97L72 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
