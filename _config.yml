@@ -1,20 +1,21 @@
 # Site settings
 title: Product Logs # site title
 description: >- # site description
-  who likes clothes and shoes
-  <a href="https://github.com/myungseokang" target="_blank" rel="noopener">@github</a>.
+  제품에 대한 경험, 배움, 지식 등을 정리, 기록, 공유함으로써 성장하기 위한 공간입니다.
+  <a href="https://github.com/myungseokang" target="_blank">@github</a>.
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/myungseokang/product # site repo [optional]
 mode: dark # default theme "dark" | "light"
+resume_url: https://resume.myungseokang.space
 
 # Profile settings
 author:
   name: Myungseo Kang # author name
   bio: >- # tell to the world
     who likes clothes and shoes
-    <a href="https://github.com/myugnseokang/product" target="_blank" rel="noopener">@github</a>.
+    <a href="https://github.com/myugnseokang" target="_blank">@myungseokang</a> in GitHub
   username: myungseokang # general username
   github: myungseokang # github username
   twitter: myungseokang # twitter username
