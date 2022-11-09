@@ -4,6 +4,7 @@ title: "Software Engineer 에서 Product Owner 로"
 date: 2022-11-03 00:00:00 +0900
 description: "Software Engineer 에서 Product Owner 로 직무를 변경하게 된 계기와 경험, 후기에 대한 것이 궁금하시다면 보셔도 좋습니다"
 categories: product-owner
+comments: true
 ---
 
 이 제목에 이끌려 들어오신 분들은 Software Engineer 에서 Product Owner (이하 PO) 전환을 꿈꾸고 있거나, 다른 직군에서 PO 로의 전환을 꿈꾸고 계실 것 같다고 감히 생각하면서 글을 적어봅니다. 반대로 이야기하면 그렇지 않은 분들은 보셔도 흥미가 없을 수 있어요.
