@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "에이블리에서 6년 & Product Owner 로써 2년 회고"
-date: 2024-11-03 00:00:00 +0900
+date: 2024-11-17 00:00:00 +0900
 description: "에이블리에서 6년간의 경험과 Product Owner 로써 만 2년의 경험에 대해 회고합니다."
 categories: product-owner, retro, ABLY
 comments: true
@@ -16,11 +16,11 @@ comments: true
 
 # 1. Software Engineer 로써 4년
 
-## Backend Engineer
+## 1-1. Backend Engineer
 
 처음에는 소위 병특 개발자로 입사했습니다. 이전 회사에서 더 성장할 수 없겠다고 생각해서 퇴사해야겠다고 생각하고, 얼마 안되어서 입사하게 되었죠. 입사하고 나서는 셀러용 어드민 개발, 옵션 확장 기능 개발 등 사업적으로 필요한 기능들과 함께 인하우스 A/B Test 기능, pt-online-schema-change (+ gh-ost) 리서치 및 적용 등 기술적으로 필요한 업무를 가리지 않고 수행했습니다.
 
-## 자칭 Technical Product Manager (TPM)
+## 1-2. 자칭 Technical Product Manager (TPM)
 그렇게 개발하는 것 자체가 재밌었다가, 서서히 익숙해지고, 곧 흥미가 떨어지기 시작했습니다. 도메인에 익숙해지니, 개발하는 것 또한 금방 실증이 나더라구요. (원래도 금방 실증이 나는 제 성향 탓인 것 같습니다.) 그러다보니 자연스레 기술적으로는 조금 더 중요한 설계단의 업무, 혹은 매니징 업무를 병행하기 시작했습니다. 구체적으로 공개할 수는 없지만, Server-Driven UI (이하 SDUI) 관련 프로젝트, 인하우스 택소노미 (Taxonomy) 프로젝트 등 좀 더 기술적으로 제품적으로 챌린징한 프로젝트를 도맡아 제가 문제 정의 / 스펙 정리 / 실제 개발까지 도맡아 진행했습니다.
 
 # 2. Product Owner (PO) 로써 2년
