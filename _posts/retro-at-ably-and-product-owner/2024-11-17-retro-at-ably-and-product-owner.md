@@ -26,7 +26,7 @@ comments: true
 # 2. Product Owner (PO) 로써 2년
 
 그러던 와중 에이블리가 너무나 잘/빠르게 성장해서 더 많은 중간 관리자를 필요로 하게 되었고, 좋은 기회로 저는 PO 를 맡게 되었습니다. 아무래도 내부 인사이동이다보니 이러한 선택에 있어 다른 구성원 분들이 납득할 수 있도록 정말정말 잘 해내야한다는 압박감과 두려움이 심했습니다. 
-그렇기에 저는 PO 라는 사람이 어떤 역할을 해야하고, 어떻게 해야 잘하는 것인지를 CXO (CEO, CTO, CPO 등 Cheif xxx Offier를 묶어서 지징하는 단어) 분들과 많이 얼라인 맞췄습니다.
+그렇기에 저는 PO 라는 사람이 어떤 역할을 해야하고, 어떻게 해야 잘하는 것인지를 CXO (CEO, CTO, CPO 등 Chief xxx Offier를 묶어서 지징하는 단어) 분들과 많이 얼라인 맞췄습니다.
 그렇게 알게 된 **에이블리에서의 PO 는 [이전 글](https://product.myungseokang.space/becoming-newbie-product-owner/#product-owner-%EB%8F%84%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B8%EC%A7%80) 에서 다뤘다시피, "Product" 에 대한 것만 다루기보다는 사업의 전반적인 영역에 있어 모든 책임과 권한을 가집니다.** 그렇기에 저는 Product Owner 보다는 Problem Owner 혹은 Business Owner 에 가깝다고도 생각하고요.
 
 그리하여, 맡게 된 문제는 (아주아주 간략하게 문제가 되지 않는 선에서 공개하자면) 아래와 같습니다.
