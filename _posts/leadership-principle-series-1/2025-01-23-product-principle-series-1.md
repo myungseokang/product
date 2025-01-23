@@ -15,7 +15,7 @@ comments: true
 1. Product Owner 로써 **제품을 만들어 나가면서 얻게 되는 제품 인사이트**
 2. Product Owner 로써 **조직을 이끌어 나가면서 얻게 되는 리더십 인사이트**
 
-따라서, 1번에 해당하는 제품 원칙 (Product Principles) 시리즈와 2번에 해당하는 리더십 원칙 (Leadership Principles) 시리즈로 2가지를 전개해보려고 합니다.
+따라서, 1번에 해당하는 제품 원칙 (Product Principles) 시리즈와 2번에 해당하는 리더십 원칙 (Leadership Principles) 시리즈로 2가지를 전개해보려고 하고, 오늘은 그 중 리더십 원칙에 대해 다뤄보겠습니다.
 
 # 본론: 왜 그렇게 결정되었나요?
 
